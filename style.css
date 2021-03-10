@@ -8,6 +8,7 @@ body {
 .welcome-picture {
     background-image: url("images/fish1.jpg");
     background-position: center;
+    background-size: cover;
     min-height: 600px;
     width: 100%;
 }
