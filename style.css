@@ -19,3 +19,14 @@ body a {
 .center {
     max-width: 65%;
 }
+/* --------------- colors  */
+
+.text-black {
+    color: black;
+}
+
+/* -------------------- footer */
+footer {
+    background-color: #023e8a;
+    color: #ade8f4;
+}
