@@ -4,6 +4,9 @@ body {
     background-color: #ade8f4;
     color: #023e8a;
 }
+body a {
+    text-decoration: none;
+}
 
 .welcome-picture {
     background-image: url("images/fish1.jpg");
