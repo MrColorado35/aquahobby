@@ -25,8 +25,20 @@ body a {
     color: black;
 }
 
+/* ---------------- description */
+#description {
+    min-height: 300px;
+}
+
+/* ----------------products */
+
+#products {
+    min-height: 600px;
+}
+
 /* -------------------- footer */
 footer {
     background-color: #023e8a;
     color: #ade8f4;
+    min-height: 120px;
 }
