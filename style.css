@@ -25,6 +25,16 @@ body a {
     color: black;
 }
 
+.text-white {
+    color: white;
+}
+/* ------------------ picture  */
+
+.bg-some {
+    background-color: #023e8a;
+    opacity: 0.6;
+}
+
 /* ---------------- description */
 #description {
     min-height: 300px;
